@@ -2,12 +2,12 @@
 #opencore thinkpad l380 yoga
 
 
-hardware
-CPU  1.7 GHz Intel Core i5-8350U Quad-Core
-GPU  Integrated Intel UHD Graphics 620
-ram  16GB DDR 4 2400mhz
-disk  m.2 nvme 256gb Kingston
-wifi  Intel 8265NGW 
+hardware\
+CPU  1.7 GHz Intel Core i5-8350U Quad-Core\
+GPU  Integrated Intel UHD Graphics 620\
+ram  16GB DDR 4 2400mhz\
+disk  m.2 nvme 256gb Kingston\
+wifi  Intel 8265NGW\
 
 software
 OS  Monterey 12.6.2
