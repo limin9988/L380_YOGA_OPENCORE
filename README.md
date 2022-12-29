@@ -1,9 +1,9 @@
 
-#opencore thinkpad l380 yoga
+opencore thinkpad l380 yoga
 
 
 hardware\
-CPU  1.7 GHz Intel Core i5-8350U Quad-Core\
+CPU  1.7 GHz Intel Core i5-8250U Quad-Core\
 GPU  Integrated Intel UHD Graphics 620\
 ram  16GB DDR 4 2400mhz\
 disk  m.2 nvme 256gb Kingston\
@@ -28,3 +28,4 @@ everything working bluetooth , wifi, touchpad , touchscreen , camera , LED statu
 not working\
 fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work\
 touch pen - universal pointing device finger works thought
+
