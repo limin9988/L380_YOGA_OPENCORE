@@ -9,21 +9,21 @@ ram  16GB DDR 4 2400mhz\
 disk  m.2 nvme 256gb Kingston\
 wifi  Intel 8265NGW\
 
-software
-OS  Monterey 12.6.2
-opencore 0.8.7
-device  MacBookPro14,1
+software\
+OS  Monterey 12.6.2\
+opencore 0.8.7\
+device  MacBookPro14,1\
 
-suggestion : 
-https://www.magesw.com/displayrotation/  <-- screen rotation app,good when flip laptop and rotate the screen
+suggestion\
+https://www.magesw.com/displayrotation/  <-- screen rotation app,good when flip laptop and rotate the screen\
 
 
-remember to generate your own smibios info
-wifi try visit https://github.com/OpenIntelWireless/itlwm/releases as different Macos need use different kext
+remember to generate your own smibios info\
+wifi try visit https://github.com/OpenIntelWireless/itlwm/releases as different Macos need use different kext\
 
-working :
-everything working bluetooth , wifi, touchpad , touchscreen , camera , LED status 
+working\
+everything working bluetooth , wifi, touchpad , touchscreen , camera , LED status\
 
-not working :
-fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work
-touch pen - universal pointing device finger works thought
+not working\
+fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work\
+touch pen - universal pointing device finger works thought\
