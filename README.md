@@ -3,17 +3,16 @@
 
 
 hardware
-CPU : 1.7 GHz Intel Core i5-8350U Quad-Core
-GPU : Integrated Intel UHD Graphics 620
-ram : 16GB DDR 4 2400mhz
-disk : m.2 nvme 256gb Kingston
-wifi : Intel 8265NGW 
+CPU  1.7 GHz Intel Core i5-8350U Quad-Core
+GPU  Integrated Intel UHD Graphics 620
+ram  16GB DDR 4 2400mhz
+disk  m.2 nvme 256gb Kingston
+wifi  Intel 8265NGW 
 
 software
-opencore : 
-OS : Monterey 12.6.2
+OS  Monterey 12.6.2
 opencore 0.8.7
-device : MacBookPro14,1
+device  MacBookPro14,1
 
 suggestion : 
 https://www.magesw.com/displayrotation/  <-- screen rotation app,good when flip laptop and rotate the screen
