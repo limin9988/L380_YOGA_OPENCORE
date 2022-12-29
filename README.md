@@ -11,6 +11,7 @@ wifi  Intel 8265NGW\
 
 software\
 OS  Monterey 12.6.2\
+might work on Ventura , remember to change the wifi kext for ventura
 opencore 0.8.7\
 device  MacBookPro14,1\
 
