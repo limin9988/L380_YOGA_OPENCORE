@@ -8,6 +8,7 @@ GPU  Integrated Intel UHD Graphics 620\
 ram  16GB DDR 4 2400mhz\
 disk  m.2 nvme 256gb Kingston\
 wifi  Intel 8265NGW\
+sd card reader\
 device  MacBookPro14,1
 
 software\
