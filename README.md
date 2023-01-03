@@ -14,7 +14,7 @@ software\
 OS  Monterey 12.6.2\
 might work on Ventura , remember to change the wifi kext for ventura\
 opencore 0.8.7\
-device  MacBookPro14,1
+device  MacBookPro15,2
 
 suggestion\
 https://www.magesw.com/displayrotation/  <-- screen rotation app,good when flip laptop and rotate the screen
