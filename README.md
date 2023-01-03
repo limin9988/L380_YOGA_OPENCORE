@@ -24,7 +24,7 @@ remember to generate your own smibios info\
 wifi try visit https://github.com/OpenIntelWireless/itlwm/releases as different Macos need use different kext
 
 working\
-everything working GPU, bluetooth , wifi, touchpad , touchpoint , touchscreen , camera , LED status
+everything working GPU, bluetooth , wifi, touchpad , touchpoint ,stylus, touchscreen , camera , LED status
 
 not working\
 fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work\
