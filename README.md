@@ -1,5 +1,5 @@
 
-opencore thinkpad l380 yoga
+######thinkpad l380 yoga opencore efi
 
 
 hardware\
