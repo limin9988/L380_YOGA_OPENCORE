@@ -1,6 +1,7 @@
 
 ###### **Thinkpad L380 Yoga Opencore EFI**
 
+No guide provided , use at your own risk
 
 ###### **hardware**
 CPU  1.7 GHz Intel Core i5-8250U Quad-Core\
