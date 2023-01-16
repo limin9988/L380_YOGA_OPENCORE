@@ -31,3 +31,6 @@ try not to update VoodooI2C.kext,VoodooI2CHID.kext,VoodooPS2Controller.kext as s
 ###### **not working**
 fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work
 
+
+![alt text](https://github.com/limin9988/L380_YOGA_OPENCORE/blob/main/image/Screenshot%20at%20Jan%2016%2013-30-38.png?raw=true "Power Setting")
+
