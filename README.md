@@ -31,8 +31,10 @@ try not to update VoodooI2C.kext,VoodooI2CHID.kext,VoodooPS2Controller.kext as s
 ###### **not working**
 fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work
 
-need set lidwake = 0 , else will cause problem when wake from suspend by opening lid, it will restart when shutdown
+hibernatemode = 3
 
-![Screenshot at Dec 02 05-16-14](https://github.com/limin9988/L380_YOGA_OPENCORE/assets/13900860/28bb27e0-d547-46e8-aac3-ff6dc19b650f)
+![Screenshot at Dec 07 22-13-33](https://github.com/limin9988/L380_YOGA_OPENCORE/assets/13900860/7f21972b-aa9f-40b7-853e-79d9b4614afd)
+
+
 
 
