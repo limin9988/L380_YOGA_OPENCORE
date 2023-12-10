@@ -31,7 +31,21 @@ try not to update VoodooI2C.kext,VoodooI2CHID.kext,VoodooPS2Controller.kext as s
 ###### **not working**
 fan sensor  - don't bother to find soluction , as this laptop doesnt hav this features,even in windows won't work
 
-hibernatemode = 3
+setting for AC
+sudo pmset -c standby 1
+sudo pmset -c hibernatemode 0
+
+setting for battery
+sudo pmset -b standby 1
+sudo pmset -b standbydelayhigh 900
+sudo pmset -b standbydelaylow 60
+sudo pmset -b hibernatemode 25
+sudo pmset -b highstandbythreshold 70
+
+setting for all
+sudo pmset -a acwake 0
+sudo pmset -a lidwake 1
+sudo pmset -a powernap 0
 
 ![Screenshot at Dec 07 22-13-33](https://github.com/limin9988/L380_YOGA_OPENCORE/assets/13900860/7f21972b-aa9f-40b7-853e-79d9b4614afd)
 
